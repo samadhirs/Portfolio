@@ -8,6 +8,7 @@ html{
     scroll-behavior: smooth;
 }
 body{
+    
     background: #080808;
     color: #ffffff;
 }
@@ -130,12 +131,12 @@ nav ul li a:hover::after{
 #projects{
     padding: 50px 0;
 }
-/*
+
 .project{
     border-radius: 10px;
     position: relative;
     overflow: hidden;
-}*/
+}
 .project-list {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
