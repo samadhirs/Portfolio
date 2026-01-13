@@ -132,11 +132,11 @@ nav ul li a:hover::after{
     padding: 50px 0;
 }
 
-.project{
+/*.project{
     border-radius: 10px;
     position: relative;
     overflow: hidden;
-}
+}*/
 .project-list {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
